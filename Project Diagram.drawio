@@ -1,0 +1,150 @@
+<mxfile host="app.diagrams.net" modified="2024-03-15T19:28:39.245Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="6wVTnBb8BcRPPbGztY35" version="24.0.7" type="github">
+  <diagram name="Page-1" id="0_4RkXdUn9JMTZgEQrq3">
+    <mxGraphModel dx="1195" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Wddc2AYhxJX9-7oqGQ-V-6" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="380" width="40" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Wddc2AYhxJX9-7oqGQ-V-7" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="30" width="40" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Wddc2AYhxJX9-7oqGQ-V-8" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="145" width="40" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Wddc2AYhxJX9-7oqGQ-V-9" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="145" width="40" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Wddc2AYhxJX9-7oqGQ-V-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Wddc2AYhxJX9-7oqGQ-V-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Wddc2AYhxJX9-7oqGQ-V-10" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="30" width="40" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Wddc2AYhxJX9-7oqGQ-V-11" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="260" width="40" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Wddc2AYhxJX9-7oqGQ-V-12" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/competitive-strategy-and-corporate-training/512/321_hill_landscape_nature_mountain_scene-128.png" vertex="1" parent="1">
+          <mxGeometry x="155" y="30" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Wddc2AYhxJX9-7oqGQ-V-13" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/phosphor-fill-vol-3/256/hand-palm-fill-128.png" vertex="1" parent="1">
+          <mxGeometry x="250" y="35" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Wddc2AYhxJX9-7oqGQ-V-14" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/phosphor-fill-vol-3/256/hand-palm-fill-128.png" vertex="1" parent="1">
+          <mxGeometry x="160" y="150" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Wddc2AYhxJX9-7oqGQ-V-15" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/user-interface-797/32/User_Interface_cut_scissor_tool_UI-128.png" vertex="1" parent="1">
+          <mxGeometry x="250" y="150" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Wddc2AYhxJX9-7oqGQ-V-16" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/user-interface-797/32/User_Interface_cut_scissor_tool_UI-128.png" vertex="1" parent="1">
+          <mxGeometry x="160" y="260" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Wddc2AYhxJX9-7oqGQ-V-17" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/competitive-strategy-and-corporate-training/512/321_hill_landscape_nature_mountain_scene-128.png" vertex="1" parent="1">
+          <mxGeometry x="245" y="260" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Wddc2AYhxJX9-7oqGQ-V-18" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/competitive-strategy-and-corporate-training/512/321_hill_landscape_nature_mountain_scene-128.png" vertex="1" parent="1">
+          <mxGeometry x="520" y="160" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Wddc2AYhxJX9-7oqGQ-V-19" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/phosphor-fill-vol-3/256/hand-palm-fill-128.png" vertex="1" parent="1">
+          <mxGeometry x="630" y="165" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Wddc2AYhxJX9-7oqGQ-V-20" value="PLAYER 1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Wddc2AYhxJX9-7oqGQ-V-21" value="PLAYER 2" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Wddc2AYhxJX9-7oqGQ-V-22" value="PLAYER 1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="130" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Wddc2AYhxJX9-7oqGQ-V-23" value="PLAYER 2" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="610" y="130" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Wddc2AYhxJX9-7oqGQ-V-24" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/phosphor-fill-vol-3/256/hand-palm-fill-128.png" vertex="1" parent="1">
+          <mxGeometry x="525" y="220" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Wddc2AYhxJX9-7oqGQ-V-25" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/user-interface-797/32/User_Interface_cut_scissor_tool_UI-128.png" vertex="1" parent="1">
+          <mxGeometry x="630" y="220" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Wddc2AYhxJX9-7oqGQ-V-26" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/user-interface-797/32/User_Interface_cut_scissor_tool_UI-128.png" vertex="1" parent="1">
+          <mxGeometry x="530" y="280" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Wddc2AYhxJX9-7oqGQ-V-27" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/competitive-strategy-and-corporate-training/512/321_hill_landscape_nature_mountain_scene-128.png" vertex="1" parent="1">
+          <mxGeometry x="625" y="280" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Wddc2AYhxJX9-7oqGQ-V-28" value="&lt;pre&gt;PLAYER 2 WINS&lt;/pre&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="690" y="160" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Wddc2AYhxJX9-7oqGQ-V-29" value="&lt;pre&gt;PLAYER 2 WINS&lt;/pre&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="690" y="220" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Wddc2AYhxJX9-7oqGQ-V-30" value="&lt;pre&gt;PLAYER 2 WINS&lt;/pre&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="690" y="285" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Wddc2AYhxJX9-7oqGQ-V-31" value="&lt;pre&gt;PLAYER 2 WINS&lt;/pre&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="185" y="90" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Wddc2AYhxJX9-7oqGQ-V-32" value="&lt;pre&gt;PLAYER 2 WINS&lt;/pre&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="200" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Wddc2AYhxJX9-7oqGQ-V-34" value="&lt;pre&gt;PLAYER 2 WINS&lt;/pre&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="310" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Wddc2AYhxJX9-7oqGQ-V-38" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/competitive-strategy-and-corporate-training/512/321_hill_landscape_nature_mountain_scene-128.png" vertex="1" parent="1">
+          <mxGeometry x="525" y="330" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Wddc2AYhxJX9-7oqGQ-V-39" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/competitive-strategy-and-corporate-training/512/321_hill_landscape_nature_mountain_scene-128.png" vertex="1" parent="1">
+          <mxGeometry x="630" y="330" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Wddc2AYhxJX9-7oqGQ-V-40" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/user-interface-797/32/User_Interface_cut_scissor_tool_UI-128.png" vertex="1" parent="1">
+          <mxGeometry x="530" y="390" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Wddc2AYhxJX9-7oqGQ-V-41" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/user-interface-797/32/User_Interface_cut_scissor_tool_UI-128.png" vertex="1" parent="1">
+          <mxGeometry x="635" y="390" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Wddc2AYhxJX9-7oqGQ-V-42" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/phosphor-fill-vol-3/256/hand-palm-fill-128.png" vertex="1" parent="1">
+          <mxGeometry x="530" y="440" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Wddc2AYhxJX9-7oqGQ-V-43" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/phosphor-fill-vol-3/256/hand-palm-fill-128.png" vertex="1" parent="1">
+          <mxGeometry x="635" y="440" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Wddc2AYhxJX9-7oqGQ-V-44" value="&lt;pre&gt;TIE&lt;/pre&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="690" y="335" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Wddc2AYhxJX9-7oqGQ-V-47" value="&lt;pre&gt;TIE&lt;/pre&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="690" y="390" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Wddc2AYhxJX9-7oqGQ-V-48" value="&lt;pre&gt;TIE&lt;/pre&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="690" y="440" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Wddc2AYhxJX9-7oqGQ-V-63" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;top=0;bottom=0;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="500" y="120" width="280" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="Wddc2AYhxJX9-7oqGQ-V-64" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;top=0;bottom=0;fillColor=none;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="460" y="160" width="360" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="Wddc2AYhxJX9-7oqGQ-V-65" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="260" width="40" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Wddc2AYhxJX9-7oqGQ-V-66" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="380" width="40" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Wddc2AYhxJX9-7oqGQ-V-67" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;top=0;bottom=0;fillColor=none;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="460" y="160" width="360" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="Wddc2AYhxJX9-7oqGQ-V-68" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/phosphor-fill-vol-3/256/hand-palm-fill-128.png" vertex="1" parent="1">
+          <mxGeometry x="160" y="390" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Wddc2AYhxJX9-7oqGQ-V-69" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/phosphor-fill-vol-3/256/hand-palm-fill-128.png" vertex="1" parent="1">
+          <mxGeometry x="250" y="390" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Wddc2AYhxJX9-7oqGQ-V-70" value="&lt;pre&gt;TIE&lt;/pre&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="185" y="430" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
